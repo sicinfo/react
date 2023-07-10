@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "react",
+			"path": "."
+		},
+		{
+			"path": "../invictus/pub/js"
+		}
+	],
+	"settings": {
+		"editor.insertSpaces": true,
+		"editor.tabSize": 2,
+		"files.exclude": {
+			"*.code-workspace": true,
+			"package-lock.json": true,
+			"node_modules": true,
+			"*ignore": true
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+  // https://www.typescriptlang.org/tsconfig#compilerOptions
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "System",
+    "allowUnreachableCode": true,
+    // "assumeChangesOnlyAffectDirectDependencies": true,
+    "checkJs": true
+  },
+  "exclude": ["node_modules"]
+}
